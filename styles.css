@@ -1,0 +1,36 @@
+body {
+  background-color: lightsteelblue;
+  border: 10px solid steelblue;
+}
+
+h1 {
+  background-color: aquamarine;
+  display: inline;
+}
+
+h2 {
+  color: darkblue;
+}
+
+i {
+  color: lightyellow;
+  font-size: 40px;
+}
+
+sup {
+  color: orangered;
+  font-size: 20px;
+}
+
+ol {
+  border: 2px dashed orangered;
+}
+
+img {
+  width: 300px;
+  display: block;
+}
+
+li {
+  text-transform: uppercase;
+}
